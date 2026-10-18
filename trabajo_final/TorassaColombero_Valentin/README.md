@@ -39,7 +39,7 @@ y no como un emprendimiento.
 | PDR | Robustez y modelo de dominio | Revisado y aprobado |
 | CDR | Secuencia, clases, patrones y testing | Revisado y aprobado |
 
-## Pendientes
+## Seguimiento posterior a esta entrega
 
 - O4 del Plan de Marketing: validación con cohortes en cátedra y equipo técnico,
   con devolución escrita de participantes.

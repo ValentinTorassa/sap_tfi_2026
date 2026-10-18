@@ -2,9 +2,9 @@
 
 - **Alumno/a o equipo:** Valentín Torassa Colombero
 - **Comisión:** T1-23-47 — Seminario de Trabajo Final de Ingeniería
-- **Documento de esta entrega:** [Torassa_Valentin_E2-2C_v2.pdf](Torassa_Valentin_E2-2C_v2.pdf)
-- **Fecha de generación:** 14/10/2026
-- **Avance referenciado:** 58/59 criterios de la checklist tecnológica documentados; la revisión del prototipo con usuarios sigue pendiente. Punto 7 verificado aparte.
+- **Documento de esta entrega:** [Torassa_Valentin_E2-2C_v3.pdf](Torassa_Valentin_E2-2C_v3.pdf)
+- **Última actualización:** 17/10/2026
+- **Avance referenciado:** 59/59 criterios de la checklist tecnológica documentados; el punto 7 se verificó aparte. O4 del Plan de Marketing es un objetivo posterior y no una condición de esta Entrega 2.
 
 
 ## Punto 7 — Operaciones (guía del Plan de Desarrollo Tecnológico)
@@ -131,9 +131,9 @@ Las horas del autor en 7.6 fueron confirmadas el 16/10/2026; las externas depend
 
 ## Entrega final por GitHub
 
-- **Fork:** Entrega 1 disponible en el repositorio del curso; esta versión E2 aún no se ha subido.
+- **Fork:** versión 3 de la Entrega 2 publicada en la rama `entrega-torassa-v3`.
 - **Carpeta de entrega:** `trabajo_final/TorassaColombero_Valentin/`
-- **Pull request:** Pendiente
+- **Pull request:** [#16 — Entrega TP, versión 3](https://github.com/cursos-uai/sap_tfi_2026/pull/16), listo para revisión.
 - **Política de actualización:** abrir un nuevo pull request por cada actualización de la entrega.
 
 ---
